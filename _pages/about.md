@@ -17,7 +17,7 @@ My research lies at the intersection of **discrete choice modeling**, **optimiza
 
 I also gained industry research experiences at **Tencent** ([AI Lab](https://www.aiia-ai.org/col.jsp?id=184)) and **Huawei**, where I worked on accelerating machine learning algorithms and optimizing scheduling strategies for 5G base station operations, respectively.
 
-My official webpage is [here](https://ma.szu.edu.cn/jsfc/wangyunlong_1.htm).
+My official webpage is [here](https://ma.szu.edu.cn/jsfc/wangyunlong_1.htm), [[中文版]](https://ma.szu.edu.cn/jsfc/wangyunlong_1.htm).
 
 **I welcome applications and inquiries from prospective full-time research fellows, postdoctoral researchers, and Ph.D. students. Outstanding research fellows may have the opportunity to apply for faculty positions at Shenzhen University, subject to the university’s recruitment policies and performance evaluation. Interested candidates are welcome to contact me at <wylwork2018@gmail.com>.**
 
