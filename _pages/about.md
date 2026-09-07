@@ -8,13 +8,16 @@ redirect_from:
 output: true
 ---
 
-Hi, I am Yunlong Wang (王云龙). I received my Ph.D. from the **Antai College of Economics and Management** ([ACEM](https://www.acem.sjtu.edu.cn/en/)) at **Shanghai Jiao Tong University** ([SJTU](https://en.sjtu.edu.cn/)), where I was fortunate to be advised by Dr. [Ying Rong](https://www.acem.sjtu.edu.cn/en/faculty/rongying.html) and Dr. [Taotao He](https://taotaoohe.github.io/). From 2023 to 2025, I was a visiting doctoral researcher at the [Leeds School of Business](https://www.colorado.edu/business/), University of Colorado Boulder (CU Boulder), where I had the privilege of working under the guidance of Dr. [Rui Zhang](https://rui-zhang.org/).
+Welcome to Yunlong Wang(王云龙)'s personal page.
 
-**I will join the College of Management at Shenzhen University as an Assistant Professor in Fall 2026.**
+I am an Assistant Professor at College of Management (CoM), Shenzhen University. I received my Ph.D. from the **Antai College of Economics and Management** ([ACEM](https://www.acem.sjtu.edu.cn/en/)) at **Shanghai Jiao Tong University** ([SJTU](https://en.sjtu.edu.cn/)), where I was fortunate to be advised by Dr. [Ying Rong](https://www.acem.sjtu.edu.cn/en/faculty/rongying.html) and Dr. [Taotao He](https://taotaoohe.github.io/). From 2023 to 2025, I was a visiting doctoral researcher at the [Leeds School of Business](https://www.colorado.edu/business/), University of Colorado Boulder (CU Boulder), where I had the privilege of working under the guidance of Dr. [Rui Zhang](https://rui-zhang.org/).
+
 
 My research lies at the intersection of **discrete choice modeling**, **optimization**, and **revenue management**, using mixed-integer programming approaches. I focus on the computational and algorithmic aspects of discrete choice models, as well as (social) network-based influence problems. I also have training in continuous optimization, particularly in advanced methods for algorithmic acceleration.
 
 I also gained industry research experiences at **Tencent** ([AI Lab](https://www.aiia-ai.org/col.jsp?id=184)) and **Huawei**, where I worked on accelerating machine learning algorithms and optimizing scheduling strategies for 5G base station operations, respectively.
+
+My official webpage is [here](https://ma.szu.edu.cn/jsfc/wangyunlong_1.htm).
 
 **I welcome applications and inquiries from prospective full-time research fellows, postdoctoral researchers, and Ph.D. students. Outstanding research fellows may have the opportunity to apply for faculty positions at Shenzhen University, subject to the university’s recruitment policies and performance evaluation. Interested candidates are welcome to contact me at <wylwork2018@gmail.com>.**
 
@@ -78,12 +81,11 @@ Conferences and Talks
 
 Service
 ======
-- Reviewer of ***Networks***.
+- Ad Hoc Reviewer: ***Networks***, ***Production and Operations Management***.
 - Session chair of 2025 INFORMS Annual Meeting, Atlanta, October 2025.
 - Session chair of 2025 INFORMS International Meeting, Singapore, July 2025.
 - Session chair of 2024 INFORMS Annual Meeting, Seattle, October 2024.
-- Coordinator and Team Leader, Doctoral Forum of Antai College of Economics and Management, Shanghai Jiao
-Tong University, July 2023.
+- Coordinator and Team Leader, Doctoral Forum of Antai College of Economics and Management(ACEM), SJTU, July 2023.
 
 Honors
 ======
